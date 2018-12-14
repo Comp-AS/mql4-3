@@ -1,3 +1,1 @@
-* text=auto
-*.mq4 diff=astextplain
-*.mq4 linguist-language=MQL4
+*.mq4 diff
